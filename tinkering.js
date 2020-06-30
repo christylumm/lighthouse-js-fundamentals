@@ -1,3 +1,4 @@
-const director = "Steven Spielberg";
-const films = ["Jaws", "Raiders of the Lost Ark", "A.I"];
+const packingList = ["tent", "bug spray", "sleeping bag"];
 
+console.log(packingList[0]);
+console.log(packList[1])
